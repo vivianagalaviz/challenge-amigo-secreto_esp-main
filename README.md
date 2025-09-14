@@ -16,7 +16,7 @@ Es un proyecto desarrollado como parte del programa **Oracle Next Education (ONE
   4. La lista se vacía para iniciar un nuevo sorteo.
  
 - ## 🔗 Link al Proyecto
-👉 [Amigo Secreto](https://github.com/TU_USUARIO/amigo-secreto)
+👉 [Amigo Secreto](https://vivianagalaviz.github.io/challenge-amigo-secreto_esp-main/))
 
 ## 🛠️ Tecnologías utilizadas
 - **HTML**  
